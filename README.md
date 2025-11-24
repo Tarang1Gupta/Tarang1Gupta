@@ -95,4 +95,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/bottom_header.svg"/>
+<img src="https://raw.githubusercontent.com/CODE-FOR-INTEREST/svg-wave/master/demo.gif"/>
