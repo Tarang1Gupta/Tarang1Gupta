@@ -7,13 +7,14 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"/>
+
 
 ---
 
 ## 🛠️ About Me
 
-- 💼 **Full-Stack Developer (MERN + PHP/Laravel)**  
+- 💼 **Full-Stack Developer (MERN + PHP)**  
 - 👨‍💻 **3+ years experience** building web apps, APIs, dashboards & school management systems  
 - 🔧 Skilled in **React, Node.js, Express.js, PHP, Laravel, MySQL, MongoDB**  
 - 🚀 Passionate about **clean UI, optimized APIs & scalable backend architectures**  
