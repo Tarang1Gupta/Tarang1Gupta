@@ -89,10 +89,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tarang1Gupta&show_icons=true&theme=react" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tarang1Gupta&theme=react" />
-</p>
+</p> -->
 
 ---
 
-<img src="https://raw.githubusercontent.com/CODE-FOR-INTEREST/svg-wave/master/demo.gif"/>
+<img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif"/>
