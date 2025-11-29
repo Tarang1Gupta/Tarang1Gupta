@@ -22,7 +22,7 @@
 - 🤝 Open to freelance projects & collaborations  
 - 📫 Email: **tarang7301@gmail.com**  
 - 🌐 Portfolio: Coming soon  
-- 📝 Resume: Available on request  
+- 📝 Resume: [Available on request  ](https://drive.google.com/file/d/1rzqw6gmXaHK2UdG7ILviWExR_6lVm1hB/view?usp=drive_link)
 
 ---
 
