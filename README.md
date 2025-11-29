@@ -21,8 +21,8 @@
 - 🌱 Currently learning **Next.js, TypeScript & API security**  
 - 🤝 Open to freelance projects & collaborations  
 - 📫 Email: **tarang7301@gmail.com**  
-- 🌐 Portfolio: Coming soon  
-- 📝 Resume: [Available on request  ](https://drive.google.com/file/d/1rzqw6gmXaHK2UdG7ILviWExR_6lVm1hB/view?usp=drive_link)
+- 🌐 Portfolio:  https://tarang1gupta.github.io/Myportfolio.github.io/
+- 📝 Resume: [Downlode  ](https://drive.google.com/file/d/1rzqw6gmXaHK2UdG7ILviWExR_6lVm1hB/view?usp=drive_link)
 
 ---
 
